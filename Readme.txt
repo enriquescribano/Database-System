@@ -1,17 +1,14 @@
 README
 
 
-The assignment is developed by:
-
-	Pablo L Cortes - A20339462
-	Enrique Escribano - A20339698
+Enrique Escribano
 
 
 ***USAGE***
 
-to compile, just type:    make
+To compile, just type:    make
 
-to run the first test case(after compiled), type: ./test_assign3 and the second one, type: ./test_expr
+To run the first test case(after compiled), type: ./test_assign3 and the second one, type: ./test_expr
 
 
 ps.- it will remain some warnings about difference in pointers const char *const and *char. anyway, it works correctly.
